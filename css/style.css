@@ -1,11 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
-@import 'https://fonts.googleapis.com/css?family=Fauna+One';
+@import 'https://fonts.googleapis.com/css?family=montserrat';
 
 /*---------- Global Style ----------*/
 
 body {
-    color: #222;
-    font-family: 'Fauna One', serif;
+    color: #111;
+    font-family: 'Montserrat', sans-serif;
     font-size: 17px;
     line-height: 1.8!important;
 }
@@ -25,11 +25,11 @@ h6 {
     margin-top: 0;
 }
 p {
-    font-family: 'Fauna One', serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     margin-top: 1px;
+    color: #111;
 }
-p,
 ul,
 li {
     color: #666;
